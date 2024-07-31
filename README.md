@@ -1,2 +1,2 @@
 # Library-Management-System-core
-The backend of the Library Management System
+📍This repository contains the core backend components of the Library Management System. It includes the main application source code, configuration files, and dependencies.
